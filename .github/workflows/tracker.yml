@@ -1,0 +1,41 @@
+name: Whale Tracker
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"   # har 5 minute me chalega
+  workflow_dispatch: {}      # manually bhi run kar sakte ho "Run workflow" button se
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Restore previous state
+        uses: actions/cache@v4
+        with:
+          path: state.json
+          key: whale-state-${{ github.run_id }}
+          restore-keys: |
+            whale-state-
+
+      - name: Run tracker
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python3 whale_tracker.py
+
+      - name: Commit updated state
+        run: |
+          git config user.name "whale-tracker-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add state.json
+          git diff --staged --quiet || git commit -m "update state"
+          git push
