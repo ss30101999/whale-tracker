@@ -2,7 +2,7 @@ name: Whale Tracker
 
 on:
   schedule:
-    - cron: "*/5 * * * *"   # har 5 minute me chalega
+    - cron: "* * * * *"   # har 5 minute me chalega
   workflow_dispatch: {}      # manually bhi run kar sakte ho "Run workflow" button se
 
 # Prevent overlapping runs from racing each other on the same state.json
