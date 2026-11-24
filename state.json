@@ -1,7 +1,7 @@
 {
   "0x0a847e73a0618e330d54e26a0789425604e76ddd": {
     "positions": {},
-    "last_ts": 1795507834768
+    "last_ts": 1795508435149
   },
   "0xda744273f80b22412417f7cfe0503f3d721f987d": {
     "positions": {
@@ -10,15 +10,15 @@
         "entry_px": "68865.8",
         "leverage": 20,
         "side": "Long",
-        "unrealized_pnl": "-765863.669003",
+        "unrealized_pnl": "-757597.829003",
         "liq_px": "14875.0208747963"
       }
     },
-    "last_ts": 1795507834768
+    "last_ts": 1795508435149
   },
   "0x362ad6209a5e904a5569f69884375809c5781d9f": {
     "positions": {},
-    "last_ts": 1795507834768
+    "last_ts": 1795508435149
   },
   "0xa559edb06548fb5d9b2066ec43320e5f9726ff95": {
     "positions": {
@@ -27,7 +27,7 @@
         "entry_px": "0.04688",
         "leverage": 5,
         "side": "Long",
-        "unrealized_pnl": "-79029.843567",
+        "unrealized_pnl": "-79280.235447",
         "liq_px": null
       },
       "HYPE": {
@@ -35,19 +35,19 @@
         "entry_px": "82.3152",
         "leverage": 10,
         "side": "Long",
-        "unrealized_pnl": "-373349.58931",
-        "liq_px": "31.9526013468"
+        "unrealized_pnl": "-368005.58931",
+        "liq_px": "31.9661150096"
       },
       "XPL": {
         "size": "11019965.0",
         "entry_px": "0.078938",
         "leverage": 10,
         "side": "Long",
-        "unrealized_pnl": "-362268.591552",
+        "unrealized_pnl": "-362301.651447",
         "liq_px": null
       }
     },
-    "last_ts": 1795507834768
+    "last_ts": 1795508435149
   },
   "0xbb34960afec64f3f1cc78b0c9c342c4657021696": {
     "positions": {
@@ -56,11 +56,11 @@
         "entry_px": "59.7928",
         "leverage": 10,
         "side": "Long",
-        "unrealized_pnl": "6553.429122",
+        "unrealized_pnl": "7007.669122",
         "liq_px": "56.7643994"
       }
     },
-    "last_ts": 1795507834768
+    "last_ts": 1795508435149
   },
   "0xbc433ba7c34752448c5361e5ed3038628a1753b0": {
     "positions": {
@@ -69,47 +69,47 @@
         "entry_px": "108250.0",
         "leverage": 20,
         "side": "Short",
-        "unrealized_pnl": "423963.236794",
-        "liq_px": "245354.938001655"
+        "unrealized_pnl": "423194.852794",
+        "liq_px": "245251.764278829"
       },
       "ETH": {
         "size": "-180.0",
         "entry_px": "3797.82",
         "leverage": 20,
         "side": "Short",
-        "unrealized_pnl": "378525.689188",
-        "liq_px": "10710.7454509041"
+        "unrealized_pnl": "378129.689188",
+        "liq_px": "10703.6828719336"
       },
       "SOL": {
         "size": "-110.7",
         "entry_px": "210.5426",
         "leverage": 20,
         "side": "Short",
-        "unrealized_pnl": "15400.542105",
-        "liq_px": "14659.8225398286"
+        "unrealized_pnl": "15391.575405",
+        "liq_px": "14644.9159046159"
       },
       "BNB": {
         "size": "-100.0",
         "entry_px": "883.337",
         "leverage": 10,
         "side": "Short",
-        "unrealized_pnl": "33307.713865",
-        "liq_px": "16315.1097598667"
+        "unrealized_pnl": "33231.713865",
+        "liq_px": "16299.6734789238"
       },
       "kBONK": {
         "size": "-16350733.0",
         "entry_px": "0.002446",
         "leverage": 1,
         "side": "Short",
-        "unrealized_pnl": "3668.866434",
-        "liq_px": "0.0986387769"
+        "unrealized_pnl": "3636.164968",
+        "liq_px": "0.0985417215"
       },
       "HYPE": {
         "size": "50.0",
         "entry_px": "70.6481",
         "leverage": 10,
         "side": "Long",
-        "unrealized_pnl": "-350.057195",
+        "unrealized_pnl": "-336.657195",
         "liq_px": null
       },
       "VVV": {
@@ -117,35 +117,35 @@
         "entry_px": "14.9239",
         "leverage": 3,
         "side": "Short",
-        "unrealized_pnl": "-34982.73966",
-        "liq_px": "448.8777854877"
+        "unrealized_pnl": "-35093.29527",
+        "liq_px": "448.4756836019"
       },
       "PUMP": {
         "size": "-18000000.0",
         "entry_px": "0.002561",
         "leverage": 3,
         "side": "Short",
-        "unrealized_pnl": "914.608504",
-        "liq_px": "0.0900934987"
+        "unrealized_pnl": "788.608504",
+        "liq_px": "0.0900105193"
       },
       "WLFI": {
         "size": "-134750.0",
         "entry_px": "0.061614",
         "leverage": 1,
         "side": "Short",
-        "unrealized_pnl": "2818.514002",
-        "liq_px": "11.2082421038"
+        "unrealized_pnl": "2798.032002",
+        "liq_px": "11.1969209414"
       },
       "ZEC": {
         "size": "-145.0",
         "entry_px": "881.7915",
         "leverage": 3,
         "side": "Short",
-        "unrealized_pnl": "18750.177232",
-        "liq_px": "11624.7901792184"
+        "unrealized_pnl": "18447.127232",
+        "liq_px": "11615.7103302923"
       }
     },
-    "last_ts": 1795507834768
+    "last_ts": 1795508435149
   },
   "0xfb996bd6467d1575d338967415dc0ee72c6037f3": {
     "positions": {
@@ -154,11 +154,11 @@
         "entry_px": "2362.35",
         "leverage": 3,
         "side": "Long",
-        "unrealized_pnl": "-377339.72467",
-        "liq_px": "934.4408237986"
+        "unrealized_pnl": "-376095.97425",
+        "liq_px": "932.283283382"
       }
     },
-    "last_ts": 1795507834768
+    "last_ts": 1795508435149
   },
   "0xc6758a779bccee1ef0190dbe8292fdf44076795d": {
     "positions": {
@@ -167,11 +167,11 @@
         "entry_px": "61203.1",
         "leverage": 10,
         "side": "Long",
-        "unrealized_pnl": "-62411.24256",
+        "unrealized_pnl": "-55889.54004",
         "liq_px": "55887.8874552111"
       }
     },
-    "last_ts": 1795507834768
+    "last_ts": 1795508435149
   },
   "0x051c2e6d49cf82ebc47f08f9b85800f94fc9693c": {
     "positions": {
@@ -180,15 +180,15 @@
         "entry_px": "56213.7",
         "leverage": 21,
         "side": "Long",
-        "unrealized_pnl": "142134.94928",
-        "liq_px": "20739.1310474232"
+        "unrealized_pnl": "146260.76652",
+        "liq_px": "20737.6526194075"
       },
       "SOL": {
         "size": "18937.79",
         "entry_px": "87.0648",
         "leverage": 20,
         "side": "Long",
-        "unrealized_pnl": "-296960.944104",
+        "unrealized_pnl": "-295086.102894",
         "liq_px": null
       },
       "STRK": {
@@ -196,15 +196,15 @@
         "entry_px": "0.06151",
         "leverage": 5,
         "side": "Long",
-        "unrealized_pnl": "-1622705.399128",
-        "liq_px": "0.0021736192"
+        "unrealized_pnl": "-1624304.5928710001",
+        "liq_px": "0.0020576139"
       },
       "XPL": {
         "size": "31099047.0",
         "entry_px": "0.075025",
         "leverage": 10,
         "side": "Long",
-        "unrealized_pnl": "-900760.31531",
+        "unrealized_pnl": "-901040.206733",
         "liq_px": null
       },
       "AZTEC": {
@@ -212,7 +212,7 @@
         "entry_px": "0.012626",
         "leverage": 3,
         "side": "Long",
-        "unrealized_pnl": "-68588.181271",
+        "unrealized_pnl": "-68208.149291",
         "liq_px": null
       },
       "CHIP": {
@@ -220,11 +220,11 @@
         "entry_px": "0.032911",
         "leverage": 3,
         "side": "Long",
-        "unrealized_pnl": "-38821.878067",
+        "unrealized_pnl": "-38931.366247",
         "liq_px": null
       }
     },
-    "last_ts": 1795507834768
+    "last_ts": 1795508435149
   },
   "0x56cd86d6ef24a3f51ce6992b7f1db751b0a0276a": {
     "positions": {
@@ -233,19 +233,19 @@
         "entry_px": "154.6032",
         "leverage": 10,
         "side": "Short",
-        "unrealized_pnl": "434792.414382",
-        "liq_px": "387.8961470434"
+        "unrealized_pnl": "434275.173042",
+        "liq_px": "387.8298905311"
       },
       "XRP": {
         "size": "-117345.0",
         "entry_px": "2.516248",
         "leverage": 20,
         "side": "Short",
-        "unrealized_pnl": "184716.081402",
-        "liq_px": "15.0344831529"
+        "unrealized_pnl": "184369.913652",
+        "liq_px": "15.0300752843"
       }
     },
-    "last_ts": 1795507834768
+    "last_ts": 1795508435149
   },
   "0x099691c206cb8ceaa41d3b9e55aaf859b2d3f78d": {
     "positions": {
@@ -254,18 +254,18 @@
         "entry_px": "87.6379",
         "leverage": 10,
         "side": "Long",
-        "unrealized_pnl": "-150472.72337",
+        "unrealized_pnl": "-149547.47437",
         "liq_px": "62.2989875172"
       }
     },
-    "last_ts": 1795507834768
+    "last_ts": 1795508435149
   },
   "0x7ff59a95c9e0b908adfc374139008ecb9a1d126b": {
     "positions": {},
-    "last_ts": 1795507834768
+    "last_ts": 1795508435149
   },
   "0x6f9d33c906a93ab7595417646d502a12aa50a03b": {
     "positions": {},
-    "last_ts": 1795507834768
+    "last_ts": 1795508435149
   }
 }
